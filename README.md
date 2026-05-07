@@ -8,13 +8,13 @@ It teaches one subtopic at a time, inserts mandatory question gates, and resumes
 From this repository:
 
 ```bash
-npx skills add https://github.com/<your-org-or-user>/<your-repo> --skill rai-learning-skill
+npx skills add https://github.com/Raikonif/rai-learning-skill.git --skill rai-learning-skill
 ```
 
 Install whole repo skill set:
 
 ```bash
-npx skills add https://github.com/<your-org-or-user>/<your-repo>
+npx skills add https://github.com/Raikonif/rai-learning-skill.git
 ```
 
 ## What It Includes
